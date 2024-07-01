@@ -100,7 +100,7 @@
     "jest-environment-jsdom": "^26.6.2",
     "lint-staged": "^12.3.5",
     "merkletreejs": "^0.2.31",
-    "prettier": "^2.5.1",
+    "prettier": "^2.6.2",
     "prettier-plugin-tailwindcss": "^0.1.8",
     "stylelint": "^14.6.0",
     "stylelint-config-recommended": "^7.0.0",
