@@ -1125,6 +1125,15 @@
       "address": "0x9FfD0a5b5438B95861167422E745D34d151bcc3b",
       "created_at": "2022-03-23T21:11:55.172Z",
       "ensName": "massadoption.eth"
+    },
+    {
+      "plaintext": "",
+      "commonwealthCommentId": ,
+      "commonwealthName": "Gregory | ChainSafe",
+      "commonwealthPostedFromAddress": "0x7AE8b0D6353F0931EB9FaC0A3562fA9e4C6Ff933",
+      "address": "0x7AE8b0D6353F0931EB9FaC0A3562fA9e4C6Ff933",
+      "created_at": "",
+      "ensName": ""
     }
   ],
   "version": "0.0.0"
